@@ -2,6 +2,10 @@
 Personal Repo for Udemy Python Course
 Course Overview
 1. Intro
+    - Python 2 vs Python 3
+        - Python 2 will be supported until 2020.
+        - Difference in syntax, Python 2 is still more widely used.
+        - Code base will most likely be in Python 2.
 2. Python Setup
 3. Object and Data Structure Basics
 4. Comparison Operators
