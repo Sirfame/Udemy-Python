@@ -1,5 +1,6 @@
 # Udemy-Python
 Personal Repo for Udemy Python Course
+
 Course Overview
 1. Intro
     - Python 2 vs Python 3
